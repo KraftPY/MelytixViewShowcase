@@ -1,0 +1,16 @@
+@import url("reset.min.css");
+
+@font-face {
+  font-family: "GilroyUltraLight";
+  src: url("../fonts/GilroyUltraLight/Gilroy-UltraLight.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+* {
+  font-family: "GilroyUltraLight";
+}
+
+.hide {
+  display: none;
+}
